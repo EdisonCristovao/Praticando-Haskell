@@ -1,1 +1,1 @@
-# Praticando-Haskell
+# Paradigmas de Programação
